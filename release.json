@@ -1,0 +1,29 @@
+{
+  "version": "0.1.0",
+  "mcpUrl": "https://app.bugtape.ai/mcp",
+  "artifacts": [
+    {
+      "file": "bugtape-0.1.0.zip",
+      "sha256": "cbfdf3d11c4ece6488f1890aa21846b05f633e7a20c8d79917bb97463bda9dac",
+      "bytes": 24221
+    },
+    {
+      "file": "bugtape-marketplace-0.1.0.zip",
+      "sha256": "2c4ff51b4df0096e58579d302af20a89915a0c7f62fba5bdaf87ec6636de9233",
+      "bytes": 26026
+    }
+  ],
+  "pluginFiles": [
+    "plugin.json",
+    "mcp.json",
+    ".mcp.json",
+    ".claude-plugin/plugin.json",
+    "README.md",
+    "LICENSE",
+    "assets/icon.svg",
+    "skills/setup/SKILL.md",
+    "skills/triage/SKILL.md",
+    "skills/report/SKILL.md",
+    "skills/verify/SKILL.md"
+  ]
+}

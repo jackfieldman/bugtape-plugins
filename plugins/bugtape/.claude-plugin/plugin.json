@@ -1,0 +1,22 @@
+{
+  "name": "bugtape",
+  "version": "0.1.0",
+  "description": "Production bug evidence for coding agents. Connect a workspace, inspect a failure, and track the handoff to a fix.",
+  "author": {
+    "name": "BugTape",
+    "url": "https://bugtape.ai"
+  },
+  "homepage": "https://bugtape.ai/docs/plugins/",
+  "license": "Apache-2.0",
+  "keywords": [
+    "bug-triage",
+    "error-tracking",
+    "MCP"
+  ],
+  "displayName": "BugTape",
+  "icon": "./assets/icon.svg",
+  "documentationUrl": "https://bugtape.ai/docs/plugins/",
+  "supportUrl": "https://bugtape.ai/contact/",
+  "privacyPolicyUrl": "https://bugtape.ai/privacy/",
+  "termsOfServiceUrl": "https://bugtape.ai/terms/"
+}

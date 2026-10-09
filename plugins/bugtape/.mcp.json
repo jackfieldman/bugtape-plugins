@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "bugtape": {
+      "type": "http",
+      "url": "https://app.bugtape.ai/mcp"
+    }
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "name": "bugtape-plugins",
+  "owner": {
+    "name": "BugTape"
+  },
+  "plugins": [
+    {
+      "name": "bugtape",
+      "source": "./plugins/bugtape",
+      "description": "Production bug evidence for coding agents. Connect a workspace, inspect a failure, and track the handoff to a fix."
+    }
+  ],
+  "description": "BugTape workflows for production bug evidence and agent handoffs."
+}
